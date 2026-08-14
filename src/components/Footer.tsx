@@ -22,7 +22,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 <li>
                   <a
-                    href=#hero
+                    href={`#hero`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Home
@@ -30,7 +30,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href=#about
+                    href={`#about`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     About
@@ -38,7 +38,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href=#services
+                    href={`#services`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Services
@@ -56,7 +56,7 @@ export default function Footer() {
               <ul className="space-y-3">
                 <li>
                   <a
-                    href=#testimonials
+                    href={`#testimonials`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Testimonials
@@ -64,7 +64,7 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href=#contact
+                    href={`#contact`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Contact
