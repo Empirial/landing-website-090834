@@ -7,10 +7,10 @@ export default function About() {
             About Us
           </h2>
           <p className="mt-6 text-base leading-relaxed text-muted-foreground md:text-lg">
-            Founded in 2015, our company has grown from a small team of passionate engineers into a trusted partner for businesses seeking digital transformation. We specialize in crafting scalable, user-centric solutions that bridge the gap between ambition and execution.
+            Since 2015, we've evolved from a passionate team of engineers into a trusted partner for businesses navigating digital transformation. We craft scalable, user-centric solutions that turn ambition into measurable results.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground md:text-lg">
-            Our mission is simple: to empower organizations with technology that is reliable, intuitive, and built to last. We believe that great software starts with listening, and we work hand-in-hand with every client to turn complex challenges into clear, measurable outcomes.
+            Our mission is to empower organizations with technology that is reliable, intuitive, and built to last. We believe great software begins with listening, and we collaborate closely with every client to turn complex challenges into clear, actionable outcomes.
           </p>
         </div>
 
@@ -18,13 +18,13 @@ export default function About() {
           <div className="rounded-lg border border-border bg-card p-6 text-card-foreground">
             <h3 className="text-lg font-semibold text-foreground">Integrity</h3>
             <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-              We operate with transparency and honesty in every engagement, ensuring that our clients always know what to expect and why.
+              We act with transparency and honesty in every engagement, ensuring our clients always know what to expect and why.
             </p>
           </div>
           <div className="rounded-lg border border-border bg-card p-6 text-card-foreground">
             <h3 className="text-lg font-semibold text-foreground">Excellence</h3>
             <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-              We hold ourselves to the highest standards of quality, constantly refining our craft to deliver solutions that exceed expectations.
+              We hold ourselves to the highest standards of quality, continuously refining our craft to deliver solutions that exceed expectations.
             </p>
           </div>
           <div className="rounded-lg border border-border bg-card p-6 text-card-foreground">
