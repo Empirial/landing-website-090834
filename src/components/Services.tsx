@@ -2,18 +2,18 @@ export default function Services() {
   const services = [
     {
       image: "https://placehold.co/960x640/e2e8f0/475569?text=services",
-      title: "Strategic Consulting",
-      description: "Our senior advisors work alongside your leadership team to identify growth opportunities, streamline operations, and craft data-driven roadmaps that align with your long-term vision.",
+      title: "Pool Cleaning",
+      description: "Our thorough cleaning service removes debris, dirt, and grime from your pool surface, walls, and waterline, ensuring a spotless and inviting pool every time.",
     },
     {
       image: "https://placehold.co/960x640/e2e8f0/475569?text=services",
-      title: "Digital Transformation",
-      description: "We modernize your technology stack, automate core processes, and integrate intelligent analytics to boost efficiency, agility, and customer experience across every touchpoint.",
+      title: "Water Testing & Chemical Balancing",
+      description: "We test your pool water regularly and adjust pH, chlorine, and alkalinity levels to keep your water safe, clear, and comfortable for swimming.",
     },
     {
       image: "https://placehold.co/960x640/e2e8f0/475569?text=services",
-      title: "Managed IT & Support",
-      description: "From 24/7 monitoring to proactive maintenance and rapid incident response, our certified engineers keep your systems secure, resilient, and always performing at their best.",
+      title: "Green Pool Treatment",
+      description: "Has your pool turned green? Our specialized treatment quickly clears algae and restores crystal-clear water, so you can get back to enjoying your pool without delay.",
     },
   ];
 
@@ -21,7 +21,7 @@ export default function Services() {
     <section className="bg-background py-16 sm:py-20 lg:py-28">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <h2 className="text-center text-3xl font-bold tracking-tight text-foreground sm:text-4xl lg:text-5xl">
-          Our Core Services
+          Professional Pool Care Services
         </h2>
 
         <div className="mt-12 flex flex-col gap-16 sm:mt-16 lg:gap-24">

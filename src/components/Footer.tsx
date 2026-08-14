@@ -7,10 +7,10 @@ export default function Footer() {
         <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
           <div>
             <span className="text-xl font-bold tracking-tight">
-              Meridian Consulting Group
+              AquaShine Pool Care
             </span>
             <p className="mt-3 max-w-xs text-sm text-muted-foreground">
-              Strategic solutions for modern enterprises.
+              Professional swimming pool cleaning and maintenance.
             </p>
           </div>
 
@@ -30,18 +30,18 @@ export default function Footer() {
                 </li>
                 <li>
                   <a
-                    href={`#about`}
-                    className="text-sm text-muted-foreground transition-colors hover:text-foreground"
-                  >
-                    About
-                  </a>
-                </li>
-                <li>
-                  <a
                     href={`#services`}
                     className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                   >
                     Services
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href={`#testimonials`}
+                    className="text-sm text-muted-foreground transition-colors hover:text-foreground"
+                  >
+                    Why Us
                   </a>
                 </li>
               </ul>
@@ -82,24 +82,24 @@ export default function Footer() {
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <Mail className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
                 <a
-                  href={`mailto:hello@meridianconsulting.com`}
+                  href={`mailto:hello@poolcare.co.za`}
                   className="transition-colors hover:text-foreground"
                 >
-                  hello@meridianconsulting.com
+                  hello@poolcare.co.za
                 </a>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <Phone className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
                 <a
-                  href={`tel:+1 (555) 123-4567`}
+                  href={`tel:+27 82 123 4567`}
                   className="transition-colors hover:text-foreground"
                 >
-                  +1 (555) 123-4567
+                  +27 82 123 4567
                 </a>
               </li>
               <li className="flex items-start gap-2 text-sm text-muted-foreground">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0" aria-hidden="true" />
-                <span>500 Market Street, Suite 1200, San Francisco, CA 94105</span>
+                <span>Cape Town, South Africa</span>
               </li>
             </ul>
           </div>
@@ -107,7 +107,7 @@ export default function Footer() {
 
         <div className="mt-12 border-t border-border pt-6">
           <p className="text-sm text-muted-foreground">
-            © 2026 Meridian Consulting Group. All rights reserved.
+            © 2026 AquaShine Pool Care. All rights reserved.
           </p>
         </div>
       </div>
